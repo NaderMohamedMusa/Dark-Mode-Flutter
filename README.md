@@ -10,5 +10,5 @@
 2)Dark Screen with Card
 
 
- Dark mode Screen
+ 
 ![Dark mode](https://user-images.githubusercontent.com/62434308/82848836-9a3bae00-9ef5-11ea-99fd-2505e5bb81f9.PNG)
